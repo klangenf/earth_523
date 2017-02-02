@@ -5,26 +5,22 @@ date: "2/2/2017"
 output: html_document
 ---
 
-```{r setup, include=TRUE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Analysis for Earth 523
 
-## R Markdown
+Today, I'm learning how to write in **Markdown**. So far, I've learned that I can:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+-Write text describing my analysis
+- Embed code with code chunks
+- Create HTML, pdf, or word output by specifying in the YAML header
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+My [github page](https://github.com/klangenf/earth_523) for this analysis.
 
-```{r cars}
-summary(cars)
-```
+$y = x^2$
 
-## Including Plots
+lasjdlfajsdflj:
 
-You can also embed plots, for example:
+> This is important
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
