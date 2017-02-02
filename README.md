@@ -4,3 +4,5 @@ Author: Kathryn Langenfeld
 This folder includes notes and files from git and RMarkdown workshop. 
 
 I'm suppose to make one more changes to this file.
+
+The changes never stop...
