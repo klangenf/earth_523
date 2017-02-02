@@ -21,6 +21,14 @@ lasjdlfajsdflj:
 
 > This is important
 
+```{r cars_analysis}
+head(cars)
+str(cars)
 
+plot(cars)
 
+max_speed <- max(cars$speed)
+```
+
+The average speed of the cars in the cars dataset is `r mean(cars$speed)` mph. The minimum speed is `r min(cars$speed)` mph. The maximum speed is `r max_speed` mph.
 
